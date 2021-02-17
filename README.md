@@ -9,10 +9,10 @@ Once a target runs this program it will send the targets IP, Country, City ect t
 
 Run this command in CMD, terminal or PowerShell (if you don't already have the following modules installed):
 
-pip install requests
-pip install dhooks
-pip install json
-pip install datetime
+ pip install requests 
+ pip install dhooks 
+ pip install json 
+ pip install datetime 
 
 Create a discord webhook.
 Replace "webhook-url-here" with your webhooks url, make sure its discord.com instead of discordapp.com.
